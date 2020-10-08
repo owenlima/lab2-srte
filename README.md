@@ -1,4 +1,4 @@
-Laboratório 2
+
 Laboratório 2 de Sistemas em Tempo Real e Embarcados
 
 Aluno: Owen Alves Lima
